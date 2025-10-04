@@ -1,16 +1,16 @@
-<!-- 🌟 Subhan Asif GitHub Profile README -->
+<!-- 🌟 Subhan Rangila GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Subhan Asif</h1>
-<h3 align="center">Full Stack Developer | React | Next.js | Spring Boot | Azure</h3>
+<h1 align="center">Hi there 👋, I'm Subhan Rangila</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Spring+Boot+%26+Azure+Learner;Building+modern+web+%26+mobile+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Spring+Boot+%26+Azure+Learner;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 💻 I specialize in **React.js**, **Next.js**, **Node.js**, and **Spring Boot**  
+- 💻 I specialize in **React.js**, **Next.js**, and **Node.js**
 - 🌱 I’m currently learning **Azure Cloud Services**  
 - 🧠 Experienced with **React Native**, **Docker**, and **PostgreSQL**  
 - 💬 Ask me about **frontend architecture, APIs, or scalable full-stack solutions**  
@@ -18,10 +18,10 @@
 
 ---
 
-### 🧩 Projects  
-- 🛒 **E-Commerce Platform** — Built using **React** and **Supabase**, focusing on seamless UI, authentication, and real-time database integration  
-- ♻️ **Waste Management Platform** — Full-stack system using **React.js**, **Node.js**, and **PostgreSQL** for sustainability-driven operations  
-- 💬 **Chat System** — Developed real-time chat functionality with **Socket.io** and **Express.js**
+### 🧩 Featured Projects  
+- 🛒 **E-Commerce Platform** — Built using **React** and **Supabase**, focusing on seamless UI, authentication, and real-time updates  
+- ♻️ **Waste Management Platform** — End-to-end system using **React.js**, **Node.js**, and **PostgreSQL** for smart recycling and sustainability  
+
 
 ---
 
@@ -50,35 +50,46 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SubhanAsif&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhanAsif&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhan215&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160px" alt="Subhan's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhan215&theme=tokyonight&hide_border=false" height="160px" alt="Subhan's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanAsif&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan215&layout=compact&theme=tokyonight&hide_border=false" height="160px" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhanAsif&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyo-night&hide_border=false" alt="Subhan's Activity Graph"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhan215&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="Trophies"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/subhan215" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:asifsubhan904@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SubhanAsif">
+  <a href="https://github.com/subhan215" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/subhanrangila" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhanAsif&label=Profile%20Views&color=0e75b6&style=flat" alt="SubhanAsif" />
+  <img src="https://komarev.com/ghpvc/?username=subhan215&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
