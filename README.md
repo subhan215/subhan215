@@ -69,7 +69,7 @@
 ### 🚀 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/subhan215/waste-management-platform">
+  <a href="https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution">
     <img src="https://img.shields.io/badge/Waste%20Management%20Platform-Next.js%20%7C%20Node.js%20%7C%20PostgreSQL-blue?style=for-the-badge" alt="Waste Management Platform"/>
   </a>
   <a href="https://github.com/subhan215/portfolio">
