@@ -65,7 +65,7 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/subhan215" target="_blank">
+  <a href="https://www.linkedin.com/in/subhan-rangila-864199200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:asifsubhan904@gmail.com">
