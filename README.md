@@ -1,7 +1,6 @@
 <!-- 🌟 Subhan Rangila GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Subhan Rangila</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Spring+Boot+%26+Azure+Learner;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
@@ -60,14 +59,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyo-night&hide_border=false" alt="Subhan's Activity Graph"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhan215&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="Trophies"/>
 </p>
 
 ---
