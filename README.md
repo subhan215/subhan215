@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=subhan215&label=Profile%20views&color=0e75b6&style=flat" alt="subhan215" />
 </p>
 
-- 🌱 I’m currently learning **Spring Boot and AWS**
+- 🌱 I’m currently learning **Spring Boot and Azure**
 - 👨‍💻 All of my projects are available at [https://subhan-rangila-portfolio.web.app/](https://subhan-rangila-portfolio.web.app/)
 - 💬 Ask me about **React, Node.js, and Next.js**
 - 📫 How to reach me: **asifsubhan904@gmail.com**
