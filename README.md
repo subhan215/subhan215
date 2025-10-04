@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Waste%20Management%20Platform-Next.js%20%7C%20Node.js%20%7C%20PostgreSQL-blue?style=for-the-badge" alt="Waste Management Platform"/>
   </a>
   <a href="https://github.com/subhan215/musk-store">
-    <img src="https://img.shields.io/badge/Portfolio-React%20%7C%20Firebase-green?style=for-the-badge" alt="Portfolio Project"/>
+    <img src="https://img.shields.io/badge/Portfolio-React%20%7C%20Firebase-green?style=for-the-badge" alt="Ecommerce Store"/>
   </a>
  
 </p>
