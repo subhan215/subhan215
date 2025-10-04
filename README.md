@@ -18,9 +18,9 @@
 ---
 
 ### 🧩 Featured Projects  
-- 🛒 **E-Commerce Platform** — Built using **React** and **Supabase**, focusing on seamless UI, authentication, and real-time updates  
-- ♻️ **Waste Management Platform** — End-to-end system using **React.js**, **Node.js**, and **PostgreSQL** for smart recycling and sustainability  
-- 🧾 **Bazaar: Inventory System** — Scalable backend for inventory tracking with **RESTful APIs**, **RBAC**, **Dockerized read/write separation**, **Redis caching**, **rate limiting**, and **horizontal scalability using PM2**
+- 🛒 **E-Commerce Platform** : Built using **React** and **Supabase**, focusing on seamless UI, authentication, and real-time updates  
+- ♻️ **Waste Management Platform** : End-to-end system using **React.js**, **Node.js**, and **PostgreSQL** for smart recycling and sustainability  
+- 🧾 **Bazaar: Inventory System** : Scalable backend for inventory tracking with **RESTful APIs**, **RBAC**, **Dockerized read/write separation**, **Redis caching**, **rate limiting**, and **horizontal scalability using PM2**
 
 ---
 
