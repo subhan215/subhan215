@@ -10,7 +10,7 @@
 
 ### 🚀 About Me  
 - 💻 I specialize in **React.js**, **Next.js**, and **Node.js**
-- 🌱 I’m currently learning **Azure Cloud Services**  
+- 🌱 I’m currently learning **Azure Cloud Services**  and **SpringBoot**
 - 🧠 Experienced with **React Native**, **Docker**, and **PostgreSQL**  
 - 💬 Ask me about **frontend architecture, APIs, or scalable full-stack solutions**  
 - 🎯 Goal: Build impactful digital products that make life easier  
