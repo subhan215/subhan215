@@ -10,17 +10,34 @@
 
 ### 🚀 About Me  
 - 💻 I specialize in **React.js**, **Next.js**, and **Node.js**
-- 🌱 I’m currently learning **Azure Cloud Services**  and **SpringBoot**
-- 🧠 Experienced with **React Native**, **Docker**, and **PostgreSQL**  
-- 💬 Ask me about **frontend architecture, APIs, or scalable full-stack solutions**  
+- 🌱 I’m currently learning **Azure Cloud Services** and **Spring Boot**
+- 🧠 Experienced with **React Native**, **Docker**, and **PostgreSQL**
+- 💬 Ask me about **frontend/backend architecture, APIs, or scalable full-stack solutions**
 - 🎯 Goal: Build impactful digital products that make life easier  
 
 ---
 
 ### 🧩 Featured Projects  
-- 🛒 **E-Commerce Platform :**  Built using **React** and **Supabase**, focusing on seamless UI, authentication, and real-time updates  
-- ♻️ **Waste Management Platform :**  End-to-end system using **React.js**, **Node.js**, and **PostgreSQL** for smart recycling and sustainability  
-- 🧾 **Bazaar Inventory System :** Scalable backend for inventory tracking with **RESTful APIs**, **RBAC**, **Dockerized read/write separation**, **Redis caching**, **rate limiting**, and **horizontal scalability using PM2**
+
+- 🏪 **[Bazaar: Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**  
+  Scalable backend and inventory tracking system built with **Next.js**, **PostgreSQL**, **Docker**, and **Redis**.  
+  Features **RBAC**, **API rate-limiting**, **read/write separation**, and **horizontal scalability** using PM2.
+
+- 🌱 **[Enviro: Waste & Recycling Solution](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**  
+  Smart waste management platform using **Next.js**, **Node.js**, **PostgreSQL**, and **Socket.io**.  
+  Includes **AI-powered image classification**, **sentiment analysis**, and **interactive maps** for 150+ recycling centers.
+
+- 💬 **[Khareed o Farokht](https://github.com/subhan215/olx-clone)**  
+  Peer-to-peer marketplace using **React.js**, **Node.js**, and **MongoDB**.  
+  Features **real-time chat**, **ad posting and filtering**, and **location-based search** for a seamless user experience.
+
+- 📝 **[Blogify](https://github.com/subhan215/blogging-application-with-mongodb)**  
+  Dynamic blogging platform using **Node.js** and **EJS** with **real-time notifications** via **Socket.io**.  
+  Supports **multi-language posts**, **advanced search**, and **interactive comment systems**.
+
+- 🛍️ **[Musk Store](https://github.com/subhan215/musk-store)**  
+  Modern e-commerce experience built with **React**, **Next.js**, and **Supabase**.  
+  Emphasizes **responsive UI**, **authentication**, **cart management**, and **real-time product updates**.
 
 ---
 
