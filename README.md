@@ -66,17 +66,18 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhan215&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160px" alt="Subhan's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhan215&theme=tokyonight&hide_border=false" height="160px" alt="Subhan's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhan215&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Subhan's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=subhan215&theme=tokyonight" height="160" alt="Subhan's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan215&layout=compact&theme=tokyonight&hide_border=false" height="160px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan215&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyo-night&hide_border=false" alt="Subhan's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true" alt="Subhan's Activity Graph"/>
 </p>
+
 
 ---
 
