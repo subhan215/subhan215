@@ -66,21 +66,21 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=subhan215&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Subhan's GitHub stats"/>
+  <!-- Profile Summary Card (stats) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan215&theme=tokyonight" height="160" alt="GitHub Stats"/>
   
-  <!-- GitHub Streak Stats (reliable) -->
-  <img src="https://streak-stats.demolab.com?user=subhan215&theme=tokyonight" height="160" alt="Subhan's GitHub streak"/>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=subhan215&theme=tokyonight" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan215&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  <!-- Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhan215&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true&hide_border=false" alt="Subhan's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 
