@@ -66,16 +66,21 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=subhan215&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Subhan's GitHub stats"/>
+  
+  <!-- GitHub Streak Stats (reliable) -->
   <img src="https://streak-stats.demolab.com?user=subhan215&theme=tokyonight" height="160" alt="Subhan's GitHub streak"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan215&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true" alt="Subhan's Activity Graph"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true&hide_border=false" alt="Subhan's Activity Graph"/>
 </p>
 
 
