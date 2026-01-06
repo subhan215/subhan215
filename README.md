@@ -58,9 +58,6 @@
 #### ☁️ **Cloud & Tools**
 `Azure` · `Docker` · `Git` · `Jira` · `Postman`
 
-#### 🎨 **Design**
-`Figma` · `Canva` · `Photoshop`
-
 ---
 
 ### 📊 GitHub Stats  
