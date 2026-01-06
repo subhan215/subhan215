@@ -68,9 +68,6 @@
 <p align="center">
   <!-- Profile Summary Card (stats) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan215&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=subhan215&theme=tokyonight" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
