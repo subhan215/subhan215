@@ -52,13 +52,13 @@
 `React.js` · `Next.js` · `React Native` · `Tailwind CSS`
 
 ### 🧠 Backend  
-`Node.js` · `Express.js` · `Django` · `Spring Boot (familiarity)`
+`Node.js` · `Express.js` · `Django` · `Spring Boot`
 
 ### 🗄️ Databases  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase`
 
 ### ☁️ Cloud & Tools  
-`Azure (core services & deployment concepts)` · `Docker` · `Git` · `Jira` · `Postman`
+`Azure` · `Docker` · `Git` · `Jira` · `Postman`
 
 ---
 
