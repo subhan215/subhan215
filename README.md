@@ -3,84 +3,83 @@
 <h1 align="center">Hi there 👋, I'm Subhan Rangila</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Spring+Boot+%26+Azure+Learner;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+CS+Undergrad;Full-Stack+%26+Backend+Focused;Exploring+Scalable+Systems+%26+Cloud;Learning+by+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 💻 I specialize in **React.js**, **Next.js**, and **Node.js**
-- 🌱 I’m currently learning **Azure Cloud Services** and **Spring Boot**
-- 🧠 Experienced with **React Native**, **Docker**, and **PostgreSQL**
-- 💬 Ask me about **frontend/backend architecture, APIs, or scalable full-stack solutions**
-- 🎯 Goal: Build impactful digital products that make life easier  
+## 🚀 About Me  
+
+- 💻 Software Engineer at **FlowMaster** & Final-Year **CS Undergraduate (FAST-NUCES, Karachi)**
+- 🧩 Experience building **end-to-end full-stack applications and system prototypes**
+- 🧠 Strong foundations in **OOP**, **Data Structures & Algorithms**, and backend design
+- ☁️ Hands-on exposure to **Azure cloud concepts** and **Spring Boot–based services**
+- 🐳 Comfortable with **Docker**, real-time systems, and API-driven architectures
+- 🎯 Goal: Grow as an engineer by building **scalable, well-structured software systems**
 
 ---
 
-### 🧩 Featured Projects  
+## 🧩 Featured Projects  
 
-- 🏪 **[Bazaar: Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**  
-  Scalable backend and inventory tracking system built with **Next.js**, **PostgreSQL**, **Docker**, and **Redis**.  
-  Features **RBAC**, **API rate-limiting**, **read/write separation**, and **horizontal scalability** using PM2.
+- 🏪 **[Bazaar – Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**  
+  Inventory management system prototype built with **Next.js**, **PostgreSQL**, **Docker**, and **Redis**.  
+  Explores **RBAC**, **API rate limiting**, **read/write separation**, and **horizontal scaling concepts**.
 
-- 🌱 **[Enviro: Waste & Recycling Solution](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**  
+- 🌱 **[Enviro – Waste & Recycling Solution](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**  
   Smart waste management platform using **Next.js**, **Node.js**, **PostgreSQL**, and **Socket.io**.  
-  Includes **AI-powered image classification**, **sentiment analysis**, and **interactive maps** for 150+ recycling centers.
+  Includes **AI-based image classification**, **sentiment analysis**, and interactive mapping features.
 
 - 💬 **[Khareed o Farokht](https://github.com/subhan215/olx-clone)**  
-  Peer-to-peer marketplace using **React.js**, **Node.js**, and **MongoDB**.  
-  Features **real-time chat**, **ad posting and filtering**, and **location-based search** for a seamless user experience.
+  Peer-to-peer marketplace prototype using **React.js**, **Node.js**, and **MongoDB**.  
+  Features **real-time chat**, ad posting, filtering, and location-based discovery.
 
 - 📝 **[Blogify](https://github.com/subhan215/blogging-application-with-mongodb)**  
-  Dynamic blogging platform using **Node.js** and **EJS** with **real-time notifications** via **Socket.io**.  
-  Supports **multi-language posts**, **advanced search**, and **interactive comment systems**.
+  Blogging platform built with **Node.js** and **EJS**, featuring **real-time notifications** via Socket.io,  
+  multi-language support, and advanced search functionality.
 
 - 🛍️ **[Musk Store](https://github.com/subhan215/musk-store)**  
-  Modern e-commerce experience built with **React**, **Next.js**, and **Supabase**.  
-  Emphasizes **responsive UI**, **authentication**, **cart management**, and **real-time product updates**.
+  E-commerce frontend built with **React**, **Next.js**, and **Supabase**,  
+  focusing on **authentication**, **state management**, and responsive UI design.
 
 ---
 
-### ⚙️ Tech Stack  
+## ⚙️ Tech Stack  
 
-#### 🖥️ **Languages**
+### 🖥️ Languages  
 `C` · `C++` · `Java` · `Python` · `JavaScript` · `TypeScript`
 
-#### ⚛️ **Frontend**
-`React.js` · `Next.js` · `React Native` · `Tailwind CSS` · `Three.js`
+### ⚛️ Frontend  
+`React.js` · `Next.js` · `React Native` · `Tailwind CSS`
 
-#### 🧠 **Backend**
-`Node.js` · `Express.js` · `Django` · `Spring Boot`
+### 🧠 Backend  
+`Node.js` · `Express.js` · `Django` · `Spring Boot (familiarity)`
 
-#### 🗄️ **Databases**
+### 🗄️ Databases  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase`
 
-#### ☁️ **Cloud & Tools**
-`Azure` · `Docker` · `Git` · `Jira` · `Postman`
+### ☁️ Cloud & Tools  
+`Azure (core services & deployment concepts)` · `Docker` · `Git` · `Jira` · `Postman`
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Profile Summary Card (stats) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan215&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan215&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhan215&theme=tokyonight" height="160" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhan215&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true" />
 </p>
-
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/subhan-rangila-864199200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -91,13 +90,8 @@
   <a href="https://github.com/subhan215" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/subhanrangila" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhan215&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=subhan215&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
