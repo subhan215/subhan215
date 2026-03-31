@@ -1,4 +1,4 @@
-<h1 align="center">Subhan Rangila</h1>
+<h1 align="center">Hi there 👋, I'm Subhan Rangila</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+%26+Microservices;Python+%7C+FastAPI+%7C+Node.js;Building+Systems+That+Scale" alt="Typing SVG" />
