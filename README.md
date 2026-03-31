@@ -1,6 +1,4 @@
-<!-- 🌟 Subhan Rangila GitHub Profile README -->
-
-<h1 align="center">Hi there 👋, I'm Subhan Rangila</h1>
+<h1 align="center">Hi, I'm Subhan Rangila</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+%26+Microservices;Python+%7C+FastAPI+%7C+Node.js;Building+Systems+That+Scale" alt="Typing SVG" />
@@ -8,59 +6,53 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Software Engineer with production experience building **backend systems, microservices, and full-stack applications**
-- 🎓 Final-year **CS Undergraduate at FAST-NUCES, Karachi** (CGPA 3.57)
-- 🔧 Experienced in **API design**, **authentication**, **real-time systems**, and **event-driven architecture**
-- 🐳 Comfortable with **Docker**, **CI/CD pipelines**, and deploying across multiple environments
-- 🧠 Strong foundations in **OOP**, **DSA**, **system design**, and **database modeling**
-- 🎯 Open to **Software Engineering** roles
+- Software Engineer with production experience building backend systems, microservices, and full-stack applications
+- Final-year CS Undergraduate at **FAST-NUCES, Karachi** (CGPA 3.57)
+- Experienced in API design, authentication, real-time systems, and event-driven architecture
+- Comfortable with Docker, CI/CD pipelines, and deploying across multiple environments
+- Strong foundations in OOP, DSA, system design, and database modeling
+- Open to **Software Engineering** roles
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-- 🏪 **[Bazaar:Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**
-  Scalable backend with **Node.js**, **PostgreSQL**, **Docker**, and **Redis**.
+- **[Bazaar - Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**
+  Scalable backend with Node.js, PostgreSQL, Docker, and Redis.
   RBAC authentication, API rate-limiting, read/write DB separation, and PM2 horizontal scaling.
 
-- 🌱 **[Enviro:Waste Management Platform](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**
-  Full-stack platform with **Next.js**, **Node.js**, **PostgreSQL**, and **Socket.io**.
+- **[Enviro - Waste Management Platform](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**
+  Full-stack platform with Next.js, Node.js, PostgreSQL, and Socket.io.
   AI image classification (Gemini API), real-time notifications, and role-based workflows.
 
-- 🛍️ **[Musk Store](https://github.com/subhan215/musk-store)**
-  E-commerce platform with **Next.js**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
+- **[Musk Store](https://github.com/subhan215/musk-store)**
+  E-commerce platform with Next.js, TypeScript, Supabase, and Tailwind CSS.
   Admin panel, order system, reviews, Cloudinary image management, and email notifications.
 
-- 💰 **AirCash:Digital Financial Platform** *(Final Year Project)*
-  Backend with **Spring Boot** (Java):secure transaction processing, wallet management APIs, and blockchain architecture for transaction verification.
+- **AirCash - Digital Financial Platform** *(Final Year Project)*
+  Backend with Spring Boot (Java). Secure transaction processing, wallet management APIs, and blockchain architecture for transaction verification.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🖥️ Languages
-`Python` · `JavaScript` · `TypeScript` · `Java` · `C++` · `SQL`
+**Languages:** `Python` · `JavaScript` · `TypeScript` · `Java` · `C++` · `SQL`
 
-### 🧠 Backend
-`FastAPI` · `Node.js` · `Spring Boot`
+**Backend:** `FastAPI` · `Node.js` · `Spring Boot`
 
-### ⚛️ Frontend
-`Next.js` · `React.js` · `Tailwind CSS`
+**Frontend:** `Next.js` · `React.js` · `Tailwind CSS`
 
-### 🗄️ Databases
-`PostgreSQL` · `MongoDB` · `Redis`
+**Databases:** `PostgreSQL` · `MongoDB` · `Redis`
 
-### 🛠️ DevOps & Tools
-`Docker` · `Git` · `GitLab CI/CD` · `Postman`
+**DevOps & Tools:** `Docker` · `Git` · `GitLab CI/CD` · `Postman`
 
-### 🏗️ Architecture
-`Microservices` · `Event-Driven` · `RBAC` · `Multi-Tenant` · `REST APIs` · `WebSocket`
+**Architecture:** `Microservices` · `Event-Driven` · `RBAC` · `Multi-Tenant` · `REST APIs` · `WebSocket`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan215&theme=tokyonight" height="160" />
@@ -76,9 +68,7 @@
 
 ---
 
----
-
-## 🌐 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhan-rangila-864199200/" target="_blank">
