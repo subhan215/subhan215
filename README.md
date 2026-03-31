@@ -3,66 +3,64 @@
 <h1 align="center">Hi there 👋, I'm Subhan Rangila</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+CS+Undergrad;Full-Stack+%26+Backend+Focused;Exploring+Scalable+Systems+%26+Cloud;Learning+by+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+%26+Microservices;Python+%7C+FastAPI+%7C+Node.js;Building+Systems+That+Scale" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-- 💻 Software Engineer at **FlowMaster** & Final-Year **CS Undergraduate (FAST-NUCES, Karachi)**
-- 🧩 Experience building **end-to-end full-stack applications and system prototypes**
-- 🧠 Strong foundations in **OOP**, **Data Structures & Algorithms**, and backend design
-- ☁️ Hands-on exposure to **Azure cloud concepts** and **Spring Boot–based services**
-- 🐳 Comfortable with **Docker**, real-time systems, and API-driven architectures
-- 🎯 Goal: Grow as an engineer by building **scalable, well-structured software systems**
-
----
-
-## 🧩 Featured Projects  
-
-- 🏪 **[Bazaar – Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**  
-  Inventory management system prototype built with **Next.js**, **PostgreSQL**, **Docker**, and **Redis**.  
-  Explores **RBAC**, **API rate limiting**, **read/write separation**, and **horizontal scaling concepts**.
-
-- 🌱 **[Enviro – Waste & Recycling Solution](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**  
-  Smart waste management platform using **Next.js**, **Node.js**, **PostgreSQL**, and **Socket.io**.  
-  Includes **AI-based image classification**, **sentiment analysis**, and interactive mapping features.
-
-- 💬 **[Khareed o Farokht](https://github.com/subhan215/olx-clone)**  
-  Peer-to-peer marketplace prototype using **React.js**, **Node.js**, and **MongoDB**.  
-  Features **real-time chat**, ad posting, filtering, and location-based discovery.
-
-- 📝 **[Blogify](https://github.com/subhan215/blogging-application-with-mongodb)**  
-  Blogging platform built with **Node.js** and **EJS**, featuring **real-time notifications** via Socket.io,  
-  multi-language support, and advanced search functionality.
-
-- 🛍️ **[Musk Store](https://github.com/subhan215/musk-store)**  
-  E-commerce frontend built with **React**, **Next.js**, and **Supabase**,  
-  focusing on **authentication**, **state management**, and responsive UI design.
+- 💻 Software Engineer with production experience in **microservices architecture**
+- 🎓 Final-year **CS Undergraduate at FAST-NUCES, Karachi** (CGPA 3.57)
+- 🔧 Built **14 microservices from scratch** — auth, API gateway, execution engine, AI agents, notifications, event bus, marketplace, and more
+- 🐳 Experienced with **Docker**, **Kubernetes**, **GitLab CI/CD**, and cloud deployments
+- 🧠 Strong foundations in **OOP**, **DSA**, **system design**, and **backend architecture**
+- 🎯 Open to **Backend / Software Engineering** roles
 
 ---
 
-## ⚙️ Tech Stack  
+## 🧩 Featured Projects
 
-### 🖥️ Languages  
-`C` · `C++` · `Java` · `Python` · `JavaScript` · `TypeScript`
+- 🏪 **[Bazaar — Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**
+  Scalable backend with **Node.js**, **PostgreSQL**, **Docker**, and **Redis**.
+  RBAC authentication, API rate-limiting, read/write DB separation, and PM2 horizontal scaling.
 
-### ⚛️ Frontend  
-`React.js` · `Next.js` · `React Native` · `Tailwind CSS`
+- 🌱 **[Enviro — Waste Management Platform](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**
+  Full-stack platform with **Next.js**, **Node.js**, **PostgreSQL**, and **Socket.io**.
+  AI image classification (Gemini API), real-time notifications, and role-based workflows.
 
-### 🧠 Backend  
-`Node.js` · `Express.js` · `Django` · `Spring Boot`
+- 🛍️ **[Musk Store](https://github.com/subhan215/musk-store)**
+  E-commerce platform with **Next.js**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
+  Admin panel, order system, reviews, Cloudinary image management, and email notifications.
 
-### 🗄️ Databases  
-`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase`
-
-### ☁️ Cloud & Tools  
-`Azure` · `Docker` · `Git` · `Jira` · `Postman`
+- 💰 **AirCash — Digital Financial Platform** *(Final Year Project)*
+  Backend with **Spring Boot** (Java) — secure transaction processing, wallet management APIs, and blockchain architecture for transaction verification.
 
 ---
 
-## 📊 GitHub Stats  
+## ⚙️ Tech Stack
+
+### 🖥️ Languages
+`Python` · `JavaScript` · `TypeScript` · `Java` · `C++` · `SQL`
+
+### 🧠 Backend
+`FastAPI` · `Node.js` · `Spring Boot`
+
+### ⚛️ Frontend
+`Next.js` · `React.js` · `Tailwind CSS`
+
+### 🗄️ Databases
+`PostgreSQL` · `MongoDB` · `Redis`
+
+### 🛠️ DevOps & Tools
+`Docker` · `Git` · `GitLab CI/CD` · `Postman`
+
+### 🏗️ Architecture
+`Microservices` · `Event-Driven` · `RBAC` · `Multi-Tenant` · `REST APIs` · `WebSocket`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan215&theme=tokyonight" height="160" />
@@ -78,7 +76,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhan-rangila-864199200/" target="_blank">
@@ -87,8 +85,8 @@
   <a href="mailto:asifsubhan904@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/subhan215" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://subhan-rangila-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
