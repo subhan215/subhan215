@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with production experience building **backend systems and microservices**
+- 💻 Software Engineer with production experience building **backend systems, microservices, and full-stack applications**
 - 🎓 Final-year **CS Undergraduate at FAST-NUCES, Karachi** (CGPA 3.57)
 - 🔧 Experienced in **API design**, **authentication**, **real-time systems**, and **event-driven architecture**
 - 🐳 Comfortable with **Docker**, **CI/CD pipelines**, and deploying across multiple environments
