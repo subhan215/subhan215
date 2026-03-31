@@ -21,11 +21,11 @@
 
 ## 🧩 Featured Projects
 
-- 🏪 **[Bazaar — Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**
+- 🏪 **[Bazaar:Inventory System](https://github.com/subhan215/bazaar_case_study_inventory_system)**
   Scalable backend with **Node.js**, **PostgreSQL**, **Docker**, and **Redis**.
   RBAC authentication, API rate-limiting, read/write DB separation, and PM2 horizontal scaling.
 
-- 🌱 **[Enviro — Waste Management Platform](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**
+- 🌱 **[Enviro:Waste Management Platform](https://github.com/subhan215/Enviro-Waste-and-Recycling-Solution)**
   Full-stack platform with **Next.js**, **Node.js**, **PostgreSQL**, and **Socket.io**.
   AI image classification (Gemini API), real-time notifications, and role-based workflows.
 
@@ -33,8 +33,8 @@
   E-commerce platform with **Next.js**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
   Admin panel, order system, reviews, Cloudinary image management, and email notifications.
 
-- 💰 **AirCash — Digital Financial Platform** *(Final Year Project)*
-  Backend with **Spring Boot** (Java) — secure transaction processing, wallet management APIs, and blockchain architecture for transaction verification.
+- 💰 **AirCash:Digital Financial Platform** *(Final Year Project)*
+  Backend with **Spring Boot** (Java):secure transaction processing, wallet management APIs, and blockchain architecture for transaction verification.
 
 ---
 
@@ -73,6 +73,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan215&theme=tokyonight&area=true" />
 </p>
+
+---
 
 ---
 
