@@ -15,7 +15,7 @@
 - 🔧 Experienced in **API design**, **authentication**, **real-time systems**, and **event-driven architecture**
 - 🐳 Comfortable with **Docker**, **CI/CD pipelines**, and deploying across multiple environments
 - 🧠 Strong foundations in **OOP**, **DSA**, **system design**, and **database modeling**
-- 🎯 Open to **Backend / Software Engineering** roles
+- 🎯 Open to **Backend, Full-Stack & Software Engineering** roles
 
 ---
 
