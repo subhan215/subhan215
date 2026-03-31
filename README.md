@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with production experience in **microservices architecture**
+- 💻 Software Engineer with production experience building **backend systems and microservices**
 - 🎓 Final-year **CS Undergraduate at FAST-NUCES, Karachi** (CGPA 3.57)
-- 🔧 Built **14 microservices from scratch** — auth, API gateway, execution engine, AI agents, notifications, event bus, marketplace, and more
-- 🐳 Experienced with **Docker**, **Kubernetes**, **GitLab CI/CD**, and cloud deployments
-- 🧠 Strong foundations in **OOP**, **DSA**, **system design**, and **backend architecture**
+- 🔧 Experienced in **API design**, **authentication**, **real-time systems**, and **event-driven architecture**
+- 🐳 Comfortable with **Docker**, **CI/CD pipelines**, and deploying across multiple environments
+- 🧠 Strong foundations in **OOP**, **DSA**, **system design**, and **database modeling**
 - 🎯 Open to **Backend / Software Engineering** roles
 
 ---
